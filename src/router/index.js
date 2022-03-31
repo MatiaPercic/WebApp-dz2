@@ -2,7 +2,6 @@ import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import Vue from 'vue'
 
-
 Vue.use(VueRouter)
 
 const routes = [
