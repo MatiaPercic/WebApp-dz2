@@ -26,7 +26,7 @@
 
 <script>
   export default {
-    name:"Component",
+    name:"NewComponent",
     data: () => ({
     ageData: {},
     name: "",
